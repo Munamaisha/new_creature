@@ -1,0 +1,35 @@
+.navbar{
+    background-color: #752929;
+    height:90px;
+    padding:0px 40px 0px 40px;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.logo{
+    font-size: 75px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color:beige;
+      
+}
+
+.nav-items ul{
+    display:flex;
+    gap:40px;
+    list-style:none;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight:bolder;
+    font-size:20px;
+    color:rgb(255, 241, 201)
+}
+
+.login{
+    font-family:cursive;
+    font-size: 20px;
+    font-weight:bold;
+    color: rgb(246, 246, 228);
+}
+
